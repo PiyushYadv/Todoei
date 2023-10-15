@@ -21,6 +21,7 @@ class TodoTheme {
       fontSize: 24,
       letterSpacing: 0,
       color: kDateColor,
+      fontWeight: FontWeight.w500,
     ),
     displayMedium: GoogleFonts.montserrat(
       fontSize: 20,
